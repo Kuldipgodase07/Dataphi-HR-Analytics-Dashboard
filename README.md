@@ -75,9 +75,9 @@ Dataphi-HR-Analytics-Dashboard/
 
 Add your dashboard screenshots in an `images/` folder and update links here.
 
-| Dashboard Overview | Attrition Analysis | Department Breakdown |
-|-------------------|-------------------|----------------------|
-| ![Overview](images/overview.png) | ![Attrition](images/attrition.png) | ![Department](images/department.png) |
+| HR | Summary | HR | Details |
+|--------------|--------------|
+| ![HR Summary](images/summary.png) | ![HR Details](images/details.png) |
 
 ---
 
