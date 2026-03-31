@@ -73,7 +73,7 @@ Dataphi-HR-Analytics-Dashboard/
 
 ## Screenshots
 
-| HR \| Summary | HR \| Details |
+| **HR \| Summary** | **HR \| Details** |
 |---------------|----------------|
 | ![HR Summary](images/HR%20Summary.png) | ![HR Details](images/HR%20Details.png) |
 
