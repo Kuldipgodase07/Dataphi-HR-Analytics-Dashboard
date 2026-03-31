@@ -73,11 +73,9 @@ Dataphi-HR-Analytics-Dashboard/
 
 ## Screenshots
 
-Add your dashboard screenshots in an `images/` folder and update links here.
-
 | HR \| Summary | HR \| Details |
-|-------------|---------------|
-| (images/HR Summary.png) | (images/HR Details.png) |
+|---------------|----------------|
+| ![HR Summary](images/HR%20Summary.png) | ![HR Details](images/HR%20Details.png) |
 
 ---
 
