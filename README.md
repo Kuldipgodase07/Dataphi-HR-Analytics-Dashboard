@@ -77,7 +77,7 @@ Add your dashboard screenshots in an `images/` folder and update links here.
 
 | HR \| Summary | HR \| Details |
 |-------------|---------------|
-| ![HR Summary](images/summary.png) | ![HR Details](images/details.png) |
+| ![HR Summary](images/HR Summary.png) | ![HR Details](images/HR Details.png) |
 
 ---
 
